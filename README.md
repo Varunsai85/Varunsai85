@@ -8,6 +8,7 @@ I am a full-stack developer with knowledge in the MERN stack (MongoDB, Express.j
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [varunsainadiminti@gmail.com](mailto:varunsainadiminti@gmail.com)
+* 🔭 I'm currently working on [Passwords Manager](https://github.com/Varunsai85/Password-manager)
 
 <a href="https://www.x.com/varunnadiminti" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/varunnadiminti?logo=twitter&style=for-the-badge&color=ef4444&labelColor=000000"
