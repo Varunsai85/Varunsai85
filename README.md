@@ -1,5 +1,5 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Varun Sai Nadiminti
-===========================================================================================================================================
+Hi 👋 My name is Varun Sai Nadiminti
+====================================
 
 Full Stack Developer
 --------------------
@@ -27,9 +27,14 @@ src="https://img.shields.io/twitter/follow/varunnadiminti?logo=twitter&style=for
 
 ### Badges
 
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/Varunsai85"><img src="https://github-readme-stats.vercel.app/api?username=Varunsai85&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=000000&hide_border=true&show_icons=true" alt="Varunsai85's GitHub stats" /></a>
+
+<a href="http://www.github.com/Varunsai85"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Varunsai85&stroke=ffffff&background=000000&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
 <a href="https://github.com/Varunsai85" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varunsai85&langs_count=10&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <b>Top Repositories</b>
 
 <div width="100%" align="center"><a href="https://github.com/Varunsai85/Weather-Forecast-ReactApp" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Varunsai85&repo=Weather-Forecast-ReactApp&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=000000&hide_border=true&locale=en" /></a><a href="https://github.com/Varunsai85/Todo-List-App" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Varunsai85&repo=Todo-List-App&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=000000&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-<a href="https://app.daily.dev/varunsainadiminti"><img src="https://api.daily.dev/devcards/v2/Vu4g0R2jxX5vYMyknXr8T.png?type=wide&r=ooa" width="652" alt="Varun Sai Nadiminti's Dev Card"/></a>
