@@ -57,7 +57,7 @@ src="https://img.shields.io/twitter/follow/varunnadiminti?logo=twitter&style=for
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/Varunsai85/Weather-Forecast-ReactApp" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Varunsai85&repo=Weather-Forecast-ReactApp&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=000000&hide_border=true&locale=en" /></a><a href="https://github.com/Varunsai85/Todo-List-App" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Varunsai85&repo=Todo-List-App&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=000000&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/Varunsai85/Password-manager" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Varunsai85&repo=Password-manager&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=000000&hide_border=true&locale=en" /></a><a href="https://github.com/Varunsai85/Weather-Forecast-ReactApp" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Varunsai85&repo=Weather-Forecast-ReactApp&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=000000&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
 <p align="center"><a href="https://app.daily.dev/varunsainadiminti"><img src="https://api.daily.dev/devcards/v2/Vu4g0R2jxX5vYMyknXr8T.png?type=wide&r=07r" width="652" alt="Varun Sai Nadiminti's Dev Card"/></a></p>
 
