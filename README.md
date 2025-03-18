@@ -4,7 +4,7 @@ Hi 👋 My name is Varun Sai Nadiminti
 ## Full Stack Developer
 
 
-I am a full-stack developer with expertise in the MERN stack (MongoDB, Express.js, React.js, Node.js) along with Next.js and PostgreSQL. With a strong foundation in Java and JavaScript, I am expanding into Java-based full-stack development using Hibernate, Spring, Spring Boot, and SQL. My journey includes certifications in Data Structures and Algorithms using Java, Full Stack Development from GeeksforGeeks, and API Development with Postman. I specialize in designing REST APIs for seamless communication between software applications. Additionally, I bring creativity through multimedia skills, including video and music editing. My long-term goal is to become a versatile full-stack developer, combining technical expertise with strong architectural thinking to build efficient, high-quality applications.
+I am a full-stack developer with expertise in the MERN stack (MongoDB, Express.js, React.js, Node.js) along with Next.js and PostgreSQL. With a strong foundation in Java and JavaScript, I am expanding into Java-based full-stack development using Hibernate, Spring, Spring Boot, and SQL. My journey includes certifications in Data Structures and Algorithms using Java, Full Stack Development from GeeksforGeeks, and API Development with Postman. I specialize in designing REST APIs for seamless communication between software applications. My long-term goal is to become a versatile full-stack developer, combining technical expertise with strong architectural thinking to build efficient, high-quality applications.
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [varunsainadiminti@gmail.com](mailto:varunsainadiminti@gmail.com)
