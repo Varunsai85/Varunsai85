@@ -3,12 +3,15 @@ Hi 👋 My name is Varun Sai Nadiminti
 
 ## Full Stack Developer
 
+* **Stacks?** Java (Spring Boot + Hibernate), PostgreSQL, and MERN(My Ex).
 
-I am a full-stack developer with expertise in the MERN stack (MongoDB, Express.js, React.js, Node.js) along with Next.js and PostgreSQL. With a strong foundation in Java and JavaScript, I am expanding into Java-based full-stack development using Hibernate, Spring, Spring Boot, and SQL. My journey includes certifications in Data Structures and Algorithms using Java, Full Stack Development from GeeksforGeeks, and API Development with Postman. I specialize in designing REST APIs for seamless communication between software applications. My long-term goal is to become a versatile full-stack developer, combining technical expertise with strong architectural thinking to build efficient, high-quality applications.
+* **Vibe:** Turning coffee into scalable apps, one sarcastic commit at a time
 
-* 🌍  I'm based in India
-* ✉️  You can contact me at [varunsainadiminti@gmail.com](mailto:varunsainadiminti@gmail.com)
-* 🔭 I'm currently working on Java Full Stack Development
+🌍  I'm based in India   
+✉️  You can contact me at [varunsainadiminti@gmail.com](mailto:varunsainadiminti@gmail.com)   
+🔭 I'm currently working on Java Full Stack Development   
+
+<img align="right" src="https://user-images.githubusercontent.com/46247882/87126810-77e5d000-c2aa-11ea-832f-70aa4fe394f9.gif" width="200" alt="Optimus"/>
 
 <a href="https://www.x.com/varunnadiminti" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/twitter/follow/varunnadiminti?logo=twitter&style=for-the-badge&color=ef4444&labelColor=000000"/>
