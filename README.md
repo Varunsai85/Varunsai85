@@ -96,7 +96,7 @@ Hi 👋 My name is Varun Sai Nadiminti
     <img src="https://github-readme-stats.vercel.app/api?username=Varunsai85&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=000000&hide_border=true&show_icons=true" alt="Varunsai85's GitHub stats"/>
 </div>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Varunsai85&theme=highcontrast&hide_border=true&cache_bust=20251029a" alt="GitHub Streak Stats" />
+  <img src="https://streak-stats.demolab.com?user=Varunsai85&theme=highcontrast&hide_border=true&cache_bust=20251029b" alt="GitHub Streak Stats" />
 </p>
 
 
