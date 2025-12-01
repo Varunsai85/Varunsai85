@@ -1,7 +1,7 @@
 Hi 👋 My name is Varun Sai Nadiminti
 ====================================
 
-## Full Stack Developer
+## Java Developer
 
 * **Stacks?** Java (Spring Boot + Hibernate), PostgreSQL, and MERN(My Ex).
 
