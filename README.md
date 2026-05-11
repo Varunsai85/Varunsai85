@@ -9,7 +9,7 @@ Hi 👋 My name is Varun Sai Nadiminti
 
 🌍  I'm based in India   
 ✉️  You can contact me at [varunsainadiminti@gmail.com](mailto:varunsainadiminti@gmail.com)   
-🔭 I'm currently working on Java Full Stack Development   
+🔭 I'm currently working on "The Rust Programming Language".  
 
 <img align="right" src="https://user-images.githubusercontent.com/46247882/87126810-77e5d000-c2aa-11ea-832f-70aa4fe394f9.gif" width="200" alt="Optimus"/>
 
