@@ -3,9 +3,7 @@ Hi 👋 My name is Varun Sai Nadiminti
 
 ## Java Developer
 
-* **Stacks?** Java (Spring Boot + Hibernate), PostgreSQL, and MERN(My Ex).
-
-* **Vibe:** Turning coffee into scalable apps, one sarcastic commit at a time
+* **Stacks?** Java (Spring Boot + Hibernate), PostgreSQL, MERN(My Ex) and Rust.
 
 🌍  I'm based in India   
 ✉️  You can contact me at [varunsainadiminti@gmail.com](mailto:varunsainadiminti@gmail.com)   
