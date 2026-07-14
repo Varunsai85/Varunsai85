@@ -1,4 +1,4 @@
-Hi 👋 My name is Varun Sai Nadiminti
+Hi 👋 My name is Varun Nadiminti
 ====================================
 
 ## Java Developer
