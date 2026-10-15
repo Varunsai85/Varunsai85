@@ -15,8 +15,6 @@
 
 ---
 
-<img align="right" src="https://user-images.githubusercontent.com/46247882/87126810-77e5d000-c2aa-11ea-832f-70aa4fe394f9.gif" width="200" alt="Optimus"/>
-
 ### 👨‍💻 About Me
 
 - 🌍 Based in **India**
@@ -24,8 +22,6 @@
 - ⚛️ Experienced with the **MERN** stack
 - 🦀 Currently learning **The Rust Programming Language**
 - ✉️ Reach me at [varunsainadiminti@gmail.com](mailto:varunsainadiminti@gmail.com)
-
-<br clear="right"/>
 
 ---
 
